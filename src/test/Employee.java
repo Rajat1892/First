@@ -2,10 +2,10 @@ package test;
 
 import java.util.Calendar;
 import java.util.Scanner;
-
+// this is second commit
 public class Employee {
 static int empId=1234;
-static String empName="Guneet";
+static String empName="Ritika";
 private int total_leaves;
 private double total_salary;
 int month;
